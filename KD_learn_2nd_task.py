@@ -1,5 +1,5 @@
 """
-Author: Xiaocong DU
+Author: XD
 Date: April 2019
 Project: Continual learning with mutants
 
